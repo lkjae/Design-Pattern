@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\bin\Debug\Ducks.exe.config
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\bin\Debug\Ducks.exe
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\bin\Debug\Ducks.pdb
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\obj\Debug\Ducks.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\obj\Debug\Ducks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\obj\Debug\Ducks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\obj\Debug\Ducks.exe
+C:\Users\Admin\Desktop\SOLID\Observer_Pattern\Ducks\Ducks\obj\Debug\Ducks.pdb
