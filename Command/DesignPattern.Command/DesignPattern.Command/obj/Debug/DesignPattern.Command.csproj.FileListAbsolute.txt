@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\obj\Debug\DesignPattern.Command.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\obj\Debug\DesignPattern.Command.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\obj\Debug\DesignPattern.Command.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\bin\Debug\DesignPattern.Command.exe.config
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\bin\Debug\DesignPattern.Command.exe
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\bin\Debug\DesignPattern.Command.pdb
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\obj\Debug\DesignPattern.Command.exe
+C:\Users\Admin\Desktop\SOLID\Command\DesignPattern.Command\DesignPattern.Command\obj\Debug\DesignPattern.Command.pdb
